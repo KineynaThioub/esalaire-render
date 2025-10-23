@@ -1,4 +1,4 @@
-// app/document.tsx
+// pages/_document.tsx
 import { Html, Head, Main, NextScript } from 'next/document'
 import { GeistSans } from "geist/font/sans"
 import { GeistMono } from "geist/font/mono"
